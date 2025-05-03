@@ -1,0 +1,183 @@
+body{
+    background-color: #402E7A;
+}
+
+h1{
+    font-family: "Comic Relief", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    margin: 10px;
+    color: dark;
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+h2{
+    font-family: "Comic Relief", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    margin:10px;
+    text-align: center;
+}
+
+h3{
+    font-size: 3rem;
+    margin-bottom: 5px;
+    margin: 25px;
+    text-align: center;
+}
+
+body{
+    background-image: url("../assets/images/St kilda.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer{
+    font-size: larger;
+    font-weight: 800;
+    background-color: rgb(250, 246, 233, 0.3);
+    text-align: center;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+
+
+.menubartitle{
+    z-index: -1;
+    margin: 10px;
+    background-color: rgb(76, 59, 207);
+    width: 410px;
+    margin-left: 5%;
+    left:100px;
+    position:absolute;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.menuitem{
+    z-index: -1.5;
+    position: absolute;
+    background-image: linear-gradient(to right, #FF2DF1,#A5158C);
+    width: 7%;
+    height: 40px;
+    top: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 10px;
+}
+
+.menubarmenu{
+    z-index: -2;
+    width: 88%;
+    height:75px;
+    position: absolute;
+    background-color: #410445;
+    margin-left: 5%;
+    top: 0px;
+    display: flex;
+}
+
+
+.item0{
+    z-index: 26;
+}
+
+.item1{
+    left: 500px;
+    
+}
+.item2{
+    left: 550px;
+    margin-left: 0.5%;
+}
+.item3{
+    left:600px;
+    margin-left: 1%;
+}
+.item4{
+    left:650px;
+    margin-left: 1.5%;
+}
+.item5{
+    left:700px;
+    margin-left: 2%;
+}
+
+
+.menubarmenu p{
+    text-align: center;
+}
+
+
+.backgroundpic{
+    z-index: -1;
+}
+
+.outerbox{
+    background-color: rgb(61, 194, 236, 0.6);
+    width: 87%;
+    margin: 5%;
+    margin-left: 5%;  
+    padding: 20px; 
+    border-radius: 30px;
+}
+
+.topspace{
+    height: 300px;
+}
+
+.content p{
+    font-size: 2rem;
+    margin: 25px;
+}
+
+.title{
+    margin: 10px;
+    background-color: rgb(76, 59, 207, 0.4);
+    width: 410px;
+    margin-left: 5%;
+    left: 100px;
+    position: fixed;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.spotpic1{
+    width:800px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 3px solid black;
+    opacity: 100% !important;
+}
+
+.spotpic2{
+    width: 800px;
+    float: right;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 3px solid black;
+}
+
+.content{
+    background-color: #4B70F5;
+    margin: 10px;
+    margin-top: 10px;
+    text-align: justify;
+    padding: .5%;
+}
+
+@media (max-width: 950px){
+    .title{
+        align-items: center;
+        width: 400px;
+        left: 100px;
+        margin-left: 5%;
+    }
+
+}

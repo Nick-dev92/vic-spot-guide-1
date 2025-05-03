@@ -1,0 +1,74 @@
+body{
+    background-color: #402E7A;
+}
+
+footer{
+    font-size: larger;
+    font-weight: 800;
+    background-color: rgb(250, 246, 233, 0.3);
+    text-align: center;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+
+
+.menubartitle{
+    z-index: -1;
+    margin: 10px;
+    background-color: rgb(76, 59, 207);
+    width: 500px;
+    margin-left: 5%;
+    position:absolute;
+    z-index: 2;
+    border-radius: 20px;
+}
+
+.menuitem{
+    z-index: -1.5;
+    background-image: linear-gradient(to right, #FF2DF1,#A5158C);
+    width: 16.666666%;
+    height: 50px;
+    top: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+.menubarmenu{
+    z-index: -2;
+    width: 88%;
+    height:65px;
+    position: absolute;
+    background-color: #410445;
+    margin-left: 5%;
+    top: 0px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+}
+
+.item0{
+}
+.item1{
+
+}
+.item2{
+
+}
+.item3{
+
+}
+.item4{
+
+}
+.item5{
+
+}
+
+
+.menubarmenu p{
+    padding-left: 15%;
+    margin-top: 10px;
+    color: blue;
+}

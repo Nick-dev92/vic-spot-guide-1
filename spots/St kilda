@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>St Kilda</title>
+  <link rel="stylesheet" href="./spotstyle.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="menubar">
+        <div class="menubarmenu">
+            <div class="menuitem item0">
+                <p><a href="../index.html">Home</a></p>
+            </div>
+            <div class="menuitem item1">
+                <p>Brighton</p>
+            </div>
+            <div class="menuitem item2">
+                <p><a href="../index.html">Home</a></p>
+            </div>
+            <div class="menuitem item3">
+            </div>    
+            <div class="menuitem item4">
+            </div>    
+            <div class="menuitem item5">
+            </div>    
+
+        </div>
+        <div class="menubartitle">
+            <h1>St Kilda</h1>
+            <h2>Spot Guide</h2>
+        </div>           
+
+
+    </div>
+
+
+    <div class="title">
+        <h1>St Kilda</h1>
+        <h2>Spot Guide</h2>
+    </div>    
+
+    <div class="topspace">
+   
+    </div>
+    <div class="outerbox">
+    <div class="content">
+        <img class="spotpic1" src="../assets/images/St kilda.png" alt="St Kilda West Beach from air">
+        <h3>
+            West Beach 
+        </h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula finibus ligula sit amet dictum. Suspendisse efficitur at sapien ac egestas. Vestibulum convallis dignissim neque, quis molestie nibh feugiat nec. Donec nec leo at eros commodo cursus eget nec arcu. Morbi eu faucibus augue. Etiam ac augue quis nulla pellentesque commodo vitae vel libero. Phasellus pharetra ipsum vel nisl bibendum, vel ultrices nulla egestas. Quisque a nunc vitae lectus sagittis eleifend at quis augue. Donec eget pellentesque nibh. Nulla pulvinar lacinia lorem, et ultricies erat auctor ac. Vivamus vel eleifend sapien. Sed accumsan diam sit amet aliquet efficitur. Ut sit amet sem id libero pretium sollicitudin ac aliquam metus.
+        </p>
+        <p>
+            Donec mollis libero id ex imperdiet condimentum. Donec id nibh mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam eu auctor nibh. Duis at lectus est. Nunc sollicitudin nibh sit amet lobortis ultricies. Nullam id fermentum eros, et convallis metus. Nam erat ex, posuere in nulla eget, commodo viverra arcu. Donec vitae ante nec nisi scelerisque fringilla. Vivamus eget posuere nulla. Proin nec dolor in tortor sodales viverra. Donec vitae tincidunt risus. Nulla ante tortor, placerat ut lacinia et, malesuada dignissim mauris. Aliquam vitae fringilla.
+        </p>
+
+    </div>
+    </div>
+
+    <div class="outerbox">
+        <div class="content">
+            <img class="spotpic2" src="../assets/images/kiddy pool.png" alt="St Kilda kiddy pool from air">
+            <h3>
+                Kiddy pool
+            </h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vehicula finibus ligula sit amet dictum. Suspendisse efficitur at sapien ac egestas. Vestibulum convallis dignissim neque, quis molestie nibh feugiat nec. Donec nec leo at eros commodo cursus eget nec arcu. Morbi eu faucibus augue. Etiam ac augue quis nulla pellentesque commodo vitae vel libero. Phasellus pharetra ipsum vel nisl bibendum, vel ultrices nulla egestas. Quisque a nunc vitae lectus sagittis eleifend at quis augue. Donec eget pellentesque nibh. Nulla pulvinar lacinia lorem, et ultricies erat auctor ac. Vivamus vel eleifend sapien. Sed accumsan diam sit amet aliquet efficitur. Ut sit amet sem id libero pretium sollicitudin ac aliquam metus.
+            </p>
+            <p>
+                Donec mollis libero id ex imperdiet condimentum. Donec id nibh mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam eu auctor nibh. Duis at lectus est. Nunc sollicitudin nibh sit amet lobortis ultricies. Nullam id fermentum eros, et convallis metus. Nam erat ex, posuere in nulla eget, commodo viverra arcu. Donec vitae ante nec nisi scelerisque fringilla. Vivamus eget posuere nulla. Proin nec dolor in tortor sodales viverra. Donec vitae tincidunt risus. Nulla ante tortor, placerat ut lacinia et, malesuada dignissim mauris. Aliquam vitae fringilla.
+            </p>
+    
+        </div>
+        </div>
+
+
+    <footer>
+        <p>Victoria Spot Guide</p>
+    </footer>
+</body>
+
+</html>
